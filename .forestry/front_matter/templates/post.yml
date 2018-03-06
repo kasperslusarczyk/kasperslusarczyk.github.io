@@ -1,7 +1,7 @@
 ---
 pages:
 - _posts/asdasd.md
-hide_body: true
+hide_body: false
 fields:
 - name: layout
   label: Layout
