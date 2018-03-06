@@ -2,6 +2,7 @@
 layout: post
 title: Getting Started with Sleek
 featured-img: sleek
+date: 2017-11-26 00:00:00 +0000
 ---
 
 ## Getting started
