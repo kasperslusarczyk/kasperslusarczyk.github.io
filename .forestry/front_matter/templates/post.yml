@@ -1,3 +1,5 @@
 ---
+pages:
+- this-is-the-first-post.md
 hide_body: true
 fields: []
